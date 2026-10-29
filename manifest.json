@@ -1,0 +1,17 @@
+{
+  "name": "US Market Pulse",
+  "short_name": "US Market Pulse",  
+  "version": "1.0.0",
+  "start_url": "./index.html",  
+  "display": "standalone",  
+  "background_color": "#0b1220",
+  "theme_color": "#121c2e",  
+  "description": "US Market Intelligence & News Dashboard (CNBC, WSJ, Bloomberg, Guardian)",
+  "icons": [
+    {
+      "src": "./news.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
